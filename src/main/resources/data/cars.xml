@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+  <make name="Toyota">
+    <model>Corolla</model>
+    <model>Yaris</model>
+    <model>Avanza</model>
+  </make>
+  <make name="Volkswagen">
+    <model>Golf</model>
+    <model>Polo</model>
+    <model>Passat</model>
+  </make>
+  <make name="Ford">
+    <model>Focus</model>
+    <model>Fiesta</model>
+    <model>Ranger</model>
+  </make>
+</cars>
